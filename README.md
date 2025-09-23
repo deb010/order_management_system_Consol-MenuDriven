@@ -19,7 +19,7 @@ OUTPUT : --
 <img width="1919" height="912" alt="Screenshot 2025-09-23 203605" src="https://github.com/user-attachments/assets/a940b41c-8fad-4e82-a6c0-4f7209780e1b" />
 
 4. Search Item By Name :
-<img width="1919" height="1079" alt="Screenshot 2025-09-23 203757" src="https://github.com/user-attachments/assets/1d8c86bf-0dd0-4956-a516-c27929870136" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-23 203816" src="https://github.com/user-attachments/assets/7d13134a-4347-4239-9e16-9a5c44dbbf3c" />
 
 5. Sort Item By price :
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/dd9c02d8-5171-4614-a36b-3af8cebfe309" />
@@ -31,7 +31,7 @@ OUTPUT : --
 <img width="1919" height="1079" alt="Screenshot 2025-09-23 203950" src="https://github.com/user-attachments/assets/775ffcb7-cdc9-4666-ba11-09db1ee4db57" />
 
 8. Delect Item :
-<img width="1919" height="1079" alt="Screenshot 2025-09-23 205048" src="https://github.com/user-attachments/assets/ae045c97-238d-4ba4-9d75-e9cd55ad68a8" />
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/48b1e9de-a3c3-4095-8cd2-22da35162646" />
 
 9. Exit Application :
 <img width="1919" height="1079" alt="Screenshot 2025-09-23 204018" src="https://github.com/user-attachments/assets/0de66d69-8076-41c3-bcde-15c06bab9ec9" />
