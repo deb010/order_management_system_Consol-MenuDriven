@@ -21,8 +21,9 @@ OUTPUT : --
 4. Search Item By Name :
 <img width="1919" height="1079" alt="Screenshot 2025-09-23 203816" src="https://github.com/user-attachments/assets/7d13134a-4347-4239-9e16-9a5c44dbbf3c" />
 
-5. Sort Item By price :
+5. Sort Item By price & Sort Item By Name :
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/dd9c02d8-5171-4614-a36b-3af8cebfe309" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-23 203816" src="https://github.com/user-attachments/assets/2a25a61b-c6a7-4d2c-9d4f-7c4c2e849760" />
 
 6. Wrong Choice :
 <img width="1919" height="621" alt="Screenshot 2025-09-23 205019" src="https://github.com/user-attachments/assets/4e313f18-a142-493b-8f14-10f07f93d75a" />
@@ -35,6 +36,8 @@ OUTPUT : --
 
 9. Exit Application :
 <img width="1919" height="1079" alt="Screenshot 2025-09-23 204018" src="https://github.com/user-attachments/assets/0de66d69-8076-41c3-bcde-15c06bab9ec9" />
+
+
 
 
 
