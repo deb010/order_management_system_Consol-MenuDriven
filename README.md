@@ -25,7 +25,7 @@ OUTPUT : --
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/dd9c02d8-5171-4614-a36b-3af8cebfe309" />
 
 6. Wrong Choice :
-<img width="1919" height="1079" alt="Screenshot 2025-09-23 205048" src="https://github.com/user-attachments/assets/f3157cab-6a63-495b-b73b-bf2bf0c3c2f2" />
+<img width="1919" height="621" alt="Screenshot 2025-09-23 205019" src="https://github.com/user-attachments/assets/4e313f18-a142-493b-8f14-10f07f93d75a" />
 
 7. Invalid Search ID:
 <img width="1919" height="1079" alt="Screenshot 2025-09-23 203950" src="https://github.com/user-attachments/assets/775ffcb7-cdc9-4666-ba11-09db1ee4db57" />
