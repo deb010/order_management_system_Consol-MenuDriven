@@ -19,7 +19,7 @@ OUTPUT : --
 <img width="1919" height="912" alt="Screenshot 2025-09-23 203605" src="https://github.com/user-attachments/assets/a940b41c-8fad-4e82-a6c0-4f7209780e1b" />
 
 4. Search Item By Name :
-<img width="1919" height="1079" alt="Screenshot 2025-09-23 203816" src="https://github.com/user-attachments/assets/7d13134a-4347-4239-9e16-9a5c44dbbf3c" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-23 203757" src="https://github.com/user-attachments/assets/72925e4c-c572-4ee9-8190-889b76b1b1d7" />
 
 5. Sort Item By price & Sort Item By Name :
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/dd9c02d8-5171-4614-a36b-3af8cebfe309" />
